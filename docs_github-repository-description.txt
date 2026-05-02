@@ -1,1 +1,0 @@
-AI‑powered web application for generating professional Bachelor’s and Master’s thesis tenders in PowerPoint. Uses GPT to refine task descriptions, supports EN/DE templates, optional image insertion, config‑based deployment and privacy‑aware contact pseudonymisation.
