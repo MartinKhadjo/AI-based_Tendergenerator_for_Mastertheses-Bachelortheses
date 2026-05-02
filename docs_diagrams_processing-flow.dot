@@ -1,4 +1,0 @@
-digraph P {
-    node [shape=box];
-    "User Inputs Form" -> "Server Loads Config & Provider" -> "Server Anonymises Name" -> "Optional Context Gathering" -> "LLM Generates Text" -> "Select Template" -> "Fill Slide & Insert Image" -> "Save & Provide Download";
-}
