@@ -1,0 +1,3 @@
+Copyright © 2026 Martin Khadjavian
+
+All rights reserved.  This documentation is provided solely for informational and evaluative purposes.  It may not be reproduced, distributed or used to reverse engineer the Tender Generator or any associated systems without prior written permission from the author.  Third‑party names and trademarks used in this documentation are the property of their respective owners.

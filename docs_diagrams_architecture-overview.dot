@@ -1,0 +1,14 @@
+digraph G {
+    node [shape=box];
+    User -> "Browser (index.html / success.html)";
+    "Browser (index.html / success.html)" -> "Flask App (announcer_fixed.py)";
+    "Flask App (announcer_fixed.py)" -> "Config Loader (tender_config.py)";
+    "Flask App (announcer_fixed.py)" -> "Anonymizer (anonymizer.py)";
+    "Flask App (announcer_fixed.py)" -> "Context Fetcher (optional)";
+    "Flask App (announcer_fixed.py)" -> "LLM (Azure OpenAI / OpenAI)";
+    "Flask App (announcer_fixed.py)" -> "Templates (DE/EN)";
+    "Flask App (announcer_fixed.py)" -> "Image from Folder";
+    "Templates (DE/EN)" -> "PPTX Output";
+    "Image from Folder" -> "PPTX Output";
+    "LLM (Azure OpenAI / OpenAI)" -> "PPTX Output";
+}
