@@ -1,0 +1,5 @@
+# Example checksum file
+# Replace placeholders with real hashes when publishing artifacts.
+<sha256>  demo-video.mp4
+<sha256>  sample-output.pdf
+<sha256>  sample-output.pptx

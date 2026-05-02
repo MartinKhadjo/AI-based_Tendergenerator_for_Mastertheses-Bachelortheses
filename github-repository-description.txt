@@ -1,0 +1,1 @@
+AI-assisted PowerPoint tender generator for Bachelor’s and Master’s thesis postings. Transforms structured browser inputs into branded EN/DE PPTX tenders with privacy-aware anonymization, template filling and LLM-supported text generation. Public showcase repo with diagrams, workflows and release guidance.

@@ -1,0 +1,38 @@
+# Repository Structure
+
+```text
+.
+├── README.md
+├── REPOSITORY_STRUCTURE.md
+├── CHANGELOG.md
+├── LICENSE.md
+├── NOTICE.md
+├── MANIFEST.txt
+├── github-repository-description.txt
+├── docs/
+│   ├── index.html
+│   ├── architecture.md
+│   ├── user-workflows.md
+│   ├── deployment-and-operations.md
+│   ├── security-and-privacy.md
+│   ├── performance-and-scalability.md
+│   ├── results.md
+│   ├── demo.md
+│   ├── engineering-boundaries.md
+│   ├── portfolio-evidence.md
+│   ├── release-and-provenance.md
+│   ├── recruiter-review-guide.md
+│   ├── github-profile-snippet.md
+│   ├── diagram-provenance.md
+│   ├── deutsche-kurzbeschreibung.md
+│   └── assets/
+│       ├── site.css
+│       ├── browser-ui.png
+│       ├── sequence-diagram-form-submission.png
+│       └── component-hierarchy.png
+└── releases/
+    └── v1.0.0/
+        ├── RELEASE_NOTES.md
+        ├── ARTIFACT_PROVENANCE_GUIDE.md
+        └── SHA256SUMS.example.txt
+```
