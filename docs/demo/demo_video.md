@@ -1,4 +1,4 @@
-# Demo Video
+﻿# Demo Video
 
 This repository does not include the original demo video file because large video assets should not be committed directly to Git. Instead, the product walkthrough is published as a public-safe YouTube demo and linked from the repository.
 
@@ -45,21 +45,3 @@ This demo is part of the public evidence layer. It does not disclose:
 - customer, institute or project-confidential data.
 
 For deeper technical review, code walkthroughs or deployable artifacts should be shared only privately under appropriate NDA or licensing terms.
-
-## Recommended Repository Placement
-
-Place this file at:
-
-```text
-docs/demo/demo_video.md
-```
-
-Then link it from the main `README.md`:
-
-```markdown
-## Demo Video
-
-A public-safe walkthrough of the AI-based Tendergenerator is available here:
-
-[Watch the demo](docs/demo/demo_video.md)
-```
